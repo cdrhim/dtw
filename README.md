@@ -14,9 +14,9 @@
 강화학습+Azure AI Infrastructure 활용
 (예전에 2021년 GPT-3를 베타 테스트 웨이팅리스트 기회가 와서 했을 때에 비해 ChatGPT는 더 긍정적인 톤의 답을 내놓는다는 생각이 들었다.)
 
-- 특이점: 과거 유명해진 인공지능 기술들인 이안 굿펠로우(Ian Goodfellow)의 2020년 General Adversarial Networks (GAN)이나 매튜 탄식(Matthew Tancik)의 2020년 NeRF (Neural Radiance Fields)과는 달리 유명 학회나 저널을 통해 발표된 것이 아닌 기술이다. 따라서 peer review로 제3자의 검증을 거치지 않은 특이점이 있고, 학계가 아닌 기업에서 발표된 점이 흥미로울 수 있다. 
+- ChatGPT 특이점: 과거 유명해진 인공지능 기술들인 이안 굿펠로우(Ian Goodfellow)의 2020년 General Adversarial Networks (GAN)이나 매튜 탄식(Matthew Tancik)의 2020년 NeRF (Neural Radiance Fields)과는 달리 유명 학회나 저널을 통해 발표된 것이 아닌 기술이다. 따라서 peer review로 제3자의 검증을 거치지 않은 특이점이 있고, 학계가 아닌 기업에서 발표된 점이 흥미로울 수 있다. 
 
-- 우려점: 데이터를 Stack Overflow와 같은 타 사이트를 scrapping 해서 integrity 이슈가 생길 수 있다. 보통 웹사이트 상 프론트 부분인 UI에서 보여지는 어떤 데이터든 scrapping 하는 것에는 법적인 문제가 없지만, 이를 통해 제3자가 2차 수익을 내는 것은 문제가 있을 수 있다. 또, 틀린답을 내놓을 수 있기 때문에 output에 대해 검증을 하는 수단이 또 필요하게 될 것이다. 
+- ChatGPT 우려점: 데이터를 Stack Overflow와 같은 타 사이트를 scrapping 해서 integrity 이슈가 생길 수 있다. 보통 웹사이트 상 프론트 부분인 UI에서 보여지는 어떤 데이터든 scrapping 하는 것에는 법적인 문제가 없지만, 이를 통해 제3자가 2차 수익을 내는 것은 문제가 있을 수 있다. 또, 틀린답을 내놓을 수 있기 때문에 output에 대해 검증을 하는 수단이 또 필요하게 될 것이다. 
 
 - 서버 비용이 학습하고 추론하는 데에 많이 쓰여 research preview 때만 제공하려던 무료서비스를 지속할 수 없고, 결국 올해 2023년 마이크로소프트가 인수하면서 유료로 전환이 되었다.
 마이크로소프트가 Open AI 인수함에 따라 AWS, GCP, Azure의 market share도 달라질 수 있을 것이라 생각한다. 또, Bing에게 적용이 될 ChatGPT를 통해 사용량이 늘 것이라 Google의 market share도 줄 수 있을 것이다.
