@@ -44,9 +44,8 @@
 
 - Multi-modal learning AI를 통해 앞으로 text의 한 도메인 학습보다 text-to-image (DALL-E), text-to-video 등의 멀티 도메인 generative AI가 더 흥행할 수도 있을 것이다.
 
-- 또한, 최근 대두되는 것은 OpenAI에서 근무한 분들이 차린 스타트업의 성장세이다. 2021년에 세워진 Anthropic은 Claude란 챗봇을 따로 만들어서 2022년 말에 Google이 300 million USD를 여기에 투자했다. ChatGPT는 인간의 피드백을 수용한 강화학습의 일종인 reinforcement learning from human feedback (RLHF)을 따랐고, Anthropic은 Constitution AI란 모델을 써서 fine-tuned된 아웃풋에 대해 컴퓨터가 강화학습을 진행하도록 한 차이가 있다.
-https://www.theverge.com/2023/2/3/23584540/google-anthropic-investment-300-million-openai-chatgpt-rival-claude
-https://scale.com/blog/chatgpt-vs-claude
+- 또한, 최근 대두되는 것은 OpenAI에서 근무한 분들이 차린 스타트업의 성장세이다. 2021년에 세워진 Anthropic은 Claude란 챗봇을 따로 만들어서 2022년 말에 Google이 300 million USD를 여기에 투자했다([link](https://www.theverge.com/2023/2/3/23584540/google-anthropic-investment-300-million-openai-chatgpt-rival-claude)). ChatGPT는 인간의 피드백을 수용한 강화학습의 일종인 reinforcement learning from human feedback (RLHF)을 따랐고, Anthropic은 Constitution AI란 모델을 써서 fine-tuned된 아웃풋에 대해 인간이 아닌 컴퓨터가 강화학습을 진행하도록 한 차이가 있다([link](https://scale.com/blog/chatgpt-vs-claude)).
+
 
 - 2023년 서울대 이교구 교수님의 Supertone (Mnet, SBS 등에서 죽은 가수가 환생해 최신곡을 커버함)을 인수한 하이브처럼 최신 리서치에 관심이 있는 스타트업이 경쟁력이 있고 IP확보에 유리할 것이다. Supertone과 같은 경우에는 글쓴이 본인의 옆 연구실이고, 수업을 들은 바로 음성 뿐만이 아니라 안무를 음악비트에 맞춰 생성한다든지의 연구가 수년 간 이루어졌다.
 
