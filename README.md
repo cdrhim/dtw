@@ -57,7 +57,7 @@
 
 - 위의 컨텐츠에 이어서 NVIDIA와 같은 경우에도 눈의 시선을 자연스럽게 보정해주는 기술(NVIDIA Broadcast)이 개발이 되었고, 2023년 현재 1.4버전 서비스 중이다([link](https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/)). 이를 통해 사람들이 대본을 읽고 웹캠 상에 발표를 할 때, 대본에 눈이 가 있거나, 다른 곳에 눈이 향해 있어도 NVIDIA Broadcast로 눈은 카메라로 향할 수 있게끔 보정해 준다. 이 기술을 통해 활용할 수 있는 상황들을 꾸준히 영상들로 PR해 사람들의 관심을 모을 수 있다([link](https://www.youtube.com/watch?v=O50BkP16eZo)).
 
-<video width="320" height="240" controls muted autoplay loop>
+<video width="640" height="480" controls muted autoplay loop>
   <source src="./assets/img/nvidia-broadcast.mp4" type="video/mp4">
 </video>
 
