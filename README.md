@@ -12,6 +12,7 @@
 - ChatGPT를 분해해 보면 그 구조가 어떻게 되어있을까?
 ![chatgpt-diagram](./assets/img/chatgpt_diagram.svg)
 *OpenAI. (2022, Nov. 30). ChatGPT: Optimizing Language Models for Dialogue. https://openai.com/blog/chatgpt/*
+
 1. 인터넷 상 570GB 정도의 텍스트 데이터(또는 3000억 개의 단어들)를 추출함
 2. 이 데이터를 활용하여 prompt 데이터셋을 구축함
 3. 레이블링하는 사람이 output을 만들어 모아진 데이터로 지도학습모델을 훈련함 
