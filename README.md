@@ -14,8 +14,8 @@
 *OpenAI. (2022, Nov. 30). ChatGPT: Optimizing Language Models for Dialogue. https://openai.com/blog/chatgpt/*
 1. 인터넷 상 570GB 정도의 텍스트 데이터(또는 3000억 개의 단어들)를 추출함
 2. 모아진 데이터로 지도학습을 통해 일정의 1차 output을 생성함 
-3. 후에 output에 대한 강화학습을 함
-4.  활용
+3. 후에 output에 대한 사람의 직접적인 피드백을 통한 강화학습을 함
+4. 어느정도 원하는 수준의 답을 내기까지 계속된 강화학습을 진행
 
 (Azure AI Infrastructure를 통해 모든 학습이 이루어지었다.)\
 (예전에 2021년 GPT-3를 베타 테스트 웨이팅리스트 기회가 와서 했을 때에 비해 ChatGPT는 더 긍정적인 톤의 답을 내놓는다는 생각이 들었다.)
