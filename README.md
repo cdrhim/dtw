@@ -46,7 +46,7 @@
 
 - 또한, 최근 대두되는 것은 OpenAI에서 근무한 분들이 차린 스타트업의 성장세이다. 2021년에 세워진 Anthropic은 Claude란 챗봇을 따로 만들어서 2022년 말에 Google이 300 million USD를 여기에 투자했다([link](https://www.theverge.com/2023/2/3/23584540/google-anthropic-investment-300-million-openai-chatgpt-rival-claude)). ChatGPT는 인간의 피드백을 수용한 강화학습의 일종인 reinforcement learning from human feedback (RLHF)을 따랐고, Anthropic은 Constitution AI란 모델을 써서 fine-tuned된 아웃풋에 대해 인간이 아닌 컴퓨터가 강화학습을 진행하도록 한 차이가 있다([link](https://scale.com/blog/chatgpt-vs-claude)).
 
-- 2023년 서울대 이교구 교수님의 Supertone (Mnet, SBS 등에서 죽은 가수가 환생해 최신곡을 커버함)을 인수한 하이브처럼 최신 리서치에 관심이 있는 스타트업이 경쟁력이 있고 IP확보에 유리할 것이다. Supertone과 같은 경우에는 글쓴이 본인의 옆 연구실이었고, 교수님의 수업을 들은 바로 음성 뿐만이 아니라 안무를 음악비트에 맞춰 생성한다든지의 연구가 수년 간 이루어졌다. 
+- 2023년 서울대 이교구 교수님의 Supertone (Mnet, SBS 등에서 죽은 가수가 환생해 최신곡을 커버함)을 인수한 하이브처럼 최신 리서치에 관심이 있는 스타트업이 경쟁력이 있고 IP확보에 유리할 것이다. Supertone과 같은 경우에는 글쓴이 본인의 옆 연구실이었고, 교수님의 수업을 들은 바로 음성 뿐만이 아니라 안무를 음악비트에 맞춰 생성한다든지의 연구가 수년 간 이루어졌다. 또, 연구실 소속 스타트업으로 서울대 **전병곤 교수님의 FriendliAI**([link](https://friendli.ai/))가 있다. PeriFlow란 GPT-3의 경량된 버전 서비스를 만들어 배포하고 있으며, 이를 통해 Scatter Lab의 이루다 챗봇이 powered 되고 있다.
 
 - 인공지능 컨텐츠 쪽에 voice.ai를 보면 유튜브에 쇼츠로 일반인이 일론 머스크의 비디오로 다른 목소리(모간 프리먼, 조 바이든, 앤드류 테이트 등 50여 가지)와 sync를 맞출 수 있는 예시들을 유저들이 꾸준히 체험해 볼 수 있게끔 한다([link](https://youtube.com/shorts/S84CgeVCNO8?feature=share)). 다른 비디오에서는 Roblox에 voice.ai를 통해 목소리를 입히는 법을 알려준다. 같은 퀄리티의 Core AI 기술이더라도 각종 창의적인 수단으로 B2C, B2B 홍보하고 입소문이 잘 나게끔 하는 스타트업들이 ChatGPT와 같은 폭팔적 인기를 끌 수 있을 것이다.
 
