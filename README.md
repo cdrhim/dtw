@@ -22,7 +22,7 @@
 
 - ChatGPT 특이점: 과거 유명해고 현재까지 쓰이는 인공지능 기술들인 이안 굿펠로우(Ian Goodfellow)의 2014년 [General Adversarial Networks (GAN)](https://arxiv.org/abs/1406.2661)이나 벤 밀든홀(Ben Mildenhall), 매튜 탄식(Matthew Tancik)의 2020년 [NeRF (Neural Radiance Fields)](https://arxiv.org/abs/2003.08934)는 유명 학회나 저널을 통해 발표된 기술들이다. GAN은 NIPS란 학회에 accept이 되었고, NeRF는 ECCV의 Oral 부문에서 Best Paper 상을 받았다. 어떤 사람이 처음 어떤 기술을 제안했는지 알 수 있고, 어떤 매체의 검증을 거쳤는지 알 수 있었다. 그러나 ChatGPT는 이와 다르게 peer review로 제3자의 검증을 거치지 않았다는 특이점이 있고, 학계가 아닌 기업에서 발표된 점이 흥미로울 수 있다. 그리고 source code가 오픈소스로 공개되지 않아 정확히 어떤 데이터나 모델을 활용했는지 알 수 없다. 흥미롭게도 이안 굿펠로우는 2016년 3월에 OpenAI에 조인을 했다가 11개월 만에 다시 Google Research로 복귀한 바가 있다.
 
-- ChatGPT 우려점: 데이터를 Stack Overflow와 같은 타 사이트를 scrapping 또는 crawling 해서 integrity 이슈가 생길 수 있다. 보통 웹사이트 상 프론트 부분인 UI에서 보여지는 어떤 데이터든 scrapping 하는 것에는 법적인 문제가 없지만, 이를 통해 제3자가 2차 수익을 내는 것은 문제가 있을 수 있다. Y Combinator에서는 어제(23년2월5일) 이에 대한 댓글토론도 있었는데, 실상 ChatGPT의 합법성에 대해 어떤 답이 내려진 상태가 ([link](https://news.ycombinator.com/item?id=34664998&ref=upstract.com)). 또, 틀린답을 내놓을 수 있기 때문에 output에 대해 검증을 하는 수단이 또 필요하게 될 것이다.
+- ChatGPT 우려점: 데이터를 Stack Overflow와 같은 타 사이트를 scrapping 또는 crawling 해서 integrity 이슈가 생길 수 있다. 보통 웹사이트 상 프론트 부분인 UI에서 보여지는 어떤 데이터든 scrapping 하는 것에는 법적인 문제가 없지만, 이를 통해 제3자가 2차 수익을 내는 것은 문제가 있을 수 있다. Y Combinator에서는 어제(23년2월5일) 이에 대한 댓글토론도 있었는데, 실상 ChatGPT의 합법성에 대해 어떤 답이 내려진 상태가 아니다([link](https://news.ycombinator.com/item?id=34664998&ref=upstract.com)). 또, 틀린답을 내놓을 수 있기 때문에 output에 대해 검증을 하는 수단이 또 필요하게 될 것이다.
 - https://news.ycombinator.com/item?id=34664998&ref=upstract.com
 
 - 서버 비용이 학습하고 추론하는 데에 많이 쓰여 research preview 때만 제공하려던 무료서비스를 지속할 수 없고, 결국 올해 2023년 마이크로소프트가 인수하면서 유료로 전환이 되었다.
