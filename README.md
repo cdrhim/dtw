@@ -19,7 +19,7 @@
 - ChatGPT 우려점: 데이터를 Stack Overflow와 같은 타 사이트를 scrapping 해서 integrity 이슈가 생길 수 있다. 보통 웹사이트 상 프론트 부분인 UI에서 보여지는 어떤 데이터든 scrapping 하는 것에는 법적인 문제가 없지만, 이를 통해 제3자가 2차 수익을 내는 것은 문제가 있을 수 있다. 또, 틀린답을 내놓을 수 있기 때문에 output에 대해 검증을 하는 수단이 또 필요하게 될 것이다. 
 
 - 서버 비용이 학습하고 추론하는 데에 많이 쓰여 research preview 때만 제공하려던 무료서비스를 지속할 수 없고, 결국 올해 2023년 마이크로소프트가 인수하면서 유료로 전환이 되었다.
-마이크로소프트가 Open AI 인수함에 따라 AWS, GCP, Azure의 market share도 달라질 수 있을 것이라 생각한다. 또, Bing에게 적용이 될 ChatGPT를 통해 사용량이 늘 것이라 Google의 market share도 줄 수 있을 것이다.
+마이크로소프트가 Open AI 인수함에 따라 AWS, GCP, Azure의 market share도 달라질 수 있을 것이라 생각한다. 또, Bing에게 적용이 될 ChatGPT를 통해 사용량이 늘 것이라 Google search engine의 market share도 줄 수 있을 것이다. 
 
 - ChatGPT는 결국 GPT-3 기반으로 같은 수의 파라미터로 만들어진 GPT-3.5와 동의어로 생각할 수 있고, InstructGPT의 연장선이라 볼 수 있다. 곧 파라미터 수가 확 늘은 GPT-4가 만들어질 것이라 계속해서 발전된 형태의 output을 기대할 수 있다. 2021년 이후의 더 최신 데이터를 input으로 넣는지에 따라 더 좋은 결과를 낼 수 있다.
 
