@@ -11,7 +11,7 @@
 
 - ChatGPT를 분해해 보면 그 구조가 어떻게 되어있을까?
 ![chatgpt-diagram](./assets/img/chatgpt_diagram.svg)
-*OpenAI. (2022, Nov. 30). ChatGPT: Optimizing Language Models for Dialogue. https://openai.com/blog/chatgpt/*\
+*OpenAI. (2022, Nov. 30). ChatGPT: Optimizing Language Models for Dialogue. https://openai.com/blog/chatgpt/* \
 강화학습+Azure AI Infrastructure 활용
 (예전에 2021년 GPT-3를 베타 테스트 웨이팅리스트 기회가 와서 했을 때에 비해 ChatGPT는 더 긍정적인 톤의 답을 내놓는다는 생각이 들었다.)
 
