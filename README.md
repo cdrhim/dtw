@@ -30,7 +30,7 @@
 
 따라서, 지도학습과 강화학습을 적절히 조합한 방식으로 ChatGPT를 학습했다고 볼 수 있다.
 
-- ChatGPT는 결국 GPT-3 기반으로 같은 수의 175B 파라미터로 만들어진 GPT-3.5와 동의어로 생각할 수 있고, InstructGPT의 연장선이라 볼 수 있다. GPT-1("Improving Language Understanding by Generative Pre-training", [link](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf))부터 시작해, GPT-2("Language Models are unsupervised multitask learners", [link](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)), GPT-3 ("Language Models are few shot learners", [link](https://arxiv.org/pdf/2005.14165.pdf)), 그리고 GPT-3.5까지 발전했다. 곧 파라미터 수가 확 늘은 GPT-4가 만들어질 것이라 계속해서 발전된 형태의 output을 기대할 수 있다. 그리고 2021년 이후의 더 최신 데이터를 input으로 넣는지에 따라 더 좋은 결과를 낼 수 있다.
+- ChatGPT는 결국 GPT-3 기반으로 같은 수의 175B 파라미터로 만들어진 GPT-3.5와 동의어로 생각할 수 있고, InstructGPT의 연장선이라 볼 수 있다. GPT-1("Improving Language Understanding by Generative Pre-training", [link](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf))부터 시작해, GPT-2("Language Models are unsupervised multitask learners", [link](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)), GPT-3 ("Language Models are few shot learners", [link](https://arxiv.org/pdf/2005.14165.pdf)), 그리고 GPT-3.5까지 발전했다. 곧 파라미터 수가 확 늘은 GPT-4가 만들어질 것이라 계속해서 발전된 형태의 output을 기대할 수 있다. GPT-4는 2023년 1분기에 나올 수 있다는 추측이 있다([link](https://the-decoder.com/gpt-4-only-launches-when-it-is-safe-and-responsible/)). 그리고 2021년 이후의 더 최신 데이터를 input으로 넣는지에 따라 더 좋은 결과를 낼 수 있다.
 
 ![gpt3-gpt4](./assets/img/gpt3-gpt4.jpg)
 *Acquisition.com LLC. https://acquisition.com*
