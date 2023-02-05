@@ -48,6 +48,8 @@
 
 - 2023년 서울대 이교구 교수님의 Supertone (Mnet, SBS 등에서 죽은 가수가 환생해 최신곡을 커버함)을 인수한 하이브처럼 최신 리서치에 관심이 있는 스타트업이 경쟁력이 있고 IP확보에 유리할 것이다. 지난 2023년 1월 31일 하이브가 Supertone에 490억원을 투자해 56%의 지분을 받아 과반상의 지분을 확보했다([link](https://www.sbiz.news/news/articleView.html?idxno=22377)). Supertone과 같은 경우에는 글쓴이 본인의 옆 연구실이었고, 교수님의 수업을 들은 바로 음성 뿐만이 아니라 안무를 음악비트에 맞춰 생성한다든지의 연구가 수년 간 이루어졌다. 또, 연구실 소속 스타트업으로 서울대 **전병곤 교수님의 FriendliAI**([link](https://friendli.ai/))가 있다. PeriFlow란 GPT-3의 경량된 버전 서비스를 만들어 배포하고 있으며, 이를 통해 Scatter Lab의 이루다 챗봇이 서포트 되고 있다.
 
+![hybe-supertone](./assets/img/hybe-supertone.jpg)
+
 - 인공지능 컨텐츠 쪽에 voice.ai를 보면 유튜브에 쇼츠로 일반인이 일론 머스크의 비디오로 다른 목소리(모간 프리먼, 조 바이든, 앤드류 테이트 등 50여 가지)와 sync를 맞출 수 있는 예시들을 유저들이 꾸준히 체험해 볼 수 있게끔 한다([link](https://youtube.com/shorts/S84CgeVCNO8?feature=share)). 다른 비디오에서는 Roblox에 voice.ai를 통해 목소리를 입히는 법을 알려준다. 같은 퀄리티의 Core AI 기술이더라도 각종 창의적인 수단으로 B2C, B2B 홍보하고 입소문이 잘 나게끔 하는 스타트업들이 ChatGPT와 같은 폭팔적 인기를 끌 수 있을 것이다.
 
 - NVIDIA와 같은 경우에도 눈의 시선을 자연스럽게 보정해주는 기술(Broadcase)이 개발이 되었고, 2023년 현재 1.4버전 서비스 중이다.
