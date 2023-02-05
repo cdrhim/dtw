@@ -14,7 +14,7 @@
 강화학습+Azure AI Infrastructure 활용
 (예전에 2021년 GPT-3를 베타 테스트 웨이팅리스트 기회가 와서 했을 때에 비해 ChatGPT는 더 긍정적인 톤의 답을 내놓는다는 생각이 들었다.)
 
-- 특이점: 과거 이안 굿펠로우(Ian Goodfellow)의 General Adversarial Networks (GAN)이나 
+- 특이점: 과거 이안 굿펠로우(Ian Goodfellow)의 General Adversarial Networks (GAN)이나 NeRF (Neural Radiance Fields)
 
 - 우려점: 데이터를 Stack Overflow와 같은 타 사이트를 scrapping 해서 integrity 이슈가 생길 수 있다. 보통 웹사이트 상 프론트 부분인 UI에서 보여지는 어떤 데이터든 scrapping 하는 것에는 법적인 문제가 없지만, 이를 통해 제3자가 2차 수익을 내는 것은 문제가 있을 수 있다.
 
