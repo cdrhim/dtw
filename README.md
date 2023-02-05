@@ -3,9 +3,11 @@
 🌍 Website: [link](https://cdrhim.github.io/dtw/)\
 💾 Repository: [link](https://www.github.com/cdrhim/dtw/)
 
+----------
+
 - [DTW-1](#week-1-dtw-1)
 
-
+----------
 
 ## Week 1 (DTW-1)
 
