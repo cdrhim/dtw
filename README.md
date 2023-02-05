@@ -52,10 +52,8 @@
 
 - 인공지능 컨텐츠 쪽에 voice.ai를 보면 유튜브에 쇼츠로 일반인이 일론 머스크의 비디오로 다른 목소리(모간 프리먼, 조 바이든, 앤드류 테이트 등 50여 가지)와 sync를 맞출 수 있는 예시들을 유저들이 꾸준히 체험해 볼 수 있게끔 한다([link](https://youtube.com/shorts/S84CgeVCNO8?feature=share)). 다른 비디오에서는 Roblox에 voice.ai를 통해 목소리를 입히는 법을 알려준다. 같은 퀄리티의 Core AI 기술이더라도 각종 창의적인 수단으로 B2C, B2B 홍보하고 입소문이 잘 나게끔 하는 스타트업들이 ChatGPT와 같은 폭팔적 인기를 끌 수 있을 것이다.
 
-- NVIDIA와 같은 경우에도 눈의 시선을 자연스럽게 보정해주는 기술(Broadcase)이 개발이 되었고, 2023년 현재 1.4버전 서비스 중이다.
-https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/
+- 위의 컨텐츠에 이어서 NVIDIA와 같은 경우에도 눈의 시선을 자연스럽게 보정해주는 기술(NVIDIA Broadcast)이 개발이 되었고, 2023년 현재 1.4버전 서비스 중이다([link](https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/)). 이를 통해 사람들이 대본을 읽고 웹캠 상에 발표를 할 때, 대본에 눈이 가 있거나, 다른 곳에 눈이 향해 있어도 NVIDIA Broadcast로 눈은 카메라로 향할 수 있게끔 보정해 준다. 이 기술을 통해 활용할 수 있는 상황들을 꾸준히 영상들로 PR해 사람들의 관심을 모을 수 있다([link](https://www.youtube.com/watch?v=O50BkP16eZo)).
 
-- Microsoft Teams가 Notion보다 인기가 많아진 이유는 이미 선점하고 있던 Windows의 distribution 때문.
 
 
 ### 최신 핫한 논문들에 대한 내용은 다음주 DTW-2에 확인가능
@@ -69,5 +67,6 @@ Week 2
 - About all the licenses that could be included in open source software (Apache 2.0, etc.).
 - 테크 기업들에 대한 미국의 최신 valuation 방법들
 - Midjourney
+- Microsoft Teams가 Notion보다 인기가 많아진 이유는 이미 선점하고 있던 Windows의 distribution 때문.
 
 -->
