@@ -30,6 +30,9 @@
 
 - ChatGPT는 결국 GPT-3 기반으로 같은 수의 파라미터로 만들어진 GPT-3.5와 동의어로 생각할 수 있고, InstructGPT의 연장선이라 볼 수 있다. GPT-1("Improving Language Understanding by Generative Pre-training", [link](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf))부터 시작해, GPT-2("Language Models are unsupervised multitask learners", [link](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)), GPT-3 ("Language Models are few shot learners", [link](https://arxiv.org/pdf/2005.14165.pdf)), 그리고 GPT-3.5까지 발전했다. 곧 파라미터 수가 확 늘은 GPT-4가 만들어질 것이라 계속해서 발전된 형태의 output을 기대할 수 있다. 2021년 이후의 더 최신 데이터를 input으로 넣는지에 따라 더 좋은 결과를 낼 수 있다.
 
+![gpt3-gpt4](./assets/img/gpt3-gpt4.jpg)
+*Acquisition.com LLC. https://acquisition.com*
+
 - ChatGPT 특이점: 과거 유명해고 현재까지 쓰이는 인공지능 기술들인 이안 굿펠로우(Ian Goodfellow)의 2014년 [General Adversarial Networks (GAN)](https://arxiv.org/abs/1406.2661)이나 벤 밀든홀(Ben Mildenhall), 매튜 탄식(Matthew Tancik)의 2020년 [NeRF (Neural Radiance Fields)](https://arxiv.org/abs/2003.08934)는 유명 학회나 저널을 통해 발표된 기술들이다. GAN은 NIPS란 학회에 accept이 되었고, NeRF는 ECCV의 Oral 부문에서 Best Paper 상을 받았다. 어떤 사람이 처음 어떤 기술을 제안했는지 알 수 있고, 어떤 매체의 검증을 거쳤는지 알 수 있었다. 그러나 ChatGPT는 이와 다르게 peer review로 제3자의 검증을 거치지 않았다는 특이점이 있고, 학계가 아닌 기업에서 발표된 점이 흥미로울 수 있다. 그리고 source code가 오픈소스로 공개되지 않아 정확히 어떤 기존 데이터나 모델을 활용하고 했는지 알 수 없다. 흥미롭게도 이안 굿펠로우는 2016년 3월에 OpenAI에 조인을 했다가 11개월 만에 다시 Google Research로 복귀한 바가 있다.
 
 - ChatGPT 우려점: 데이터를 Stack Overflow와 같은 타 사이트를 scrapping 또는 crawling 해서 integrity 이슈가 생길 수 있다. 보통 웹사이트 상 프론트 부분인 UI에서 보여지는 어떤 데이터든 scrapping 하는 것에는 법적인 문제가 없지만, 이를 통해 제3자가 2차 수익을 내는 것은 문제가 있을 수 있다. Y Combinator에서는 어제(2023년 2월 5일) 이에 대한 댓글토론도 있었는데, 실상 ChatGPT의 합법성에 대해 어떤 답이 내려진 상태가 아니다([link](https://news.ycombinator.com/item?id=34664998&ref=upstract.com)). 또, 틀린답을 내놓을 수 있기 때문에 output에 대해 검증을 하는 수단이 또 필요하게 될 것이다.
