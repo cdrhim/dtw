@@ -64,7 +64,7 @@ https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/
 
 - 논문을 내는 곳 중에 컨퍼런스와 저널 등이 있고, IF가 높을수록 더 명성이 높은 곳이라 할 수 있다. ICLR, NIPS, ICML, AAAI, CVPR 등이 있다([link](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)).
 
-- 논문을 제출해서 accept되고 출판될 때 바로 핫해지는 논문이 있는가 하면, 한참 후에 유명해지는 논문들도 있다. 보통은 산업에서 쓰이기 전에 이미 논문 기술들이 유명해진다.
+- 논문을 제출해서 accept되고 출판될 때 바로 핫해지는 논문이 있는가 하면, 한참 후에 유명해지는 논문들도 있다. 보통은 산업에서 쓰이기 전에 이미 쓰일 논문 기술들은 유명해진다.
 
 <!---
 Week 2
