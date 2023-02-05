@@ -12,6 +12,7 @@
 ## Week 1 (DTW-1)
 
 - ChatGPT를 분해해 보면 그 구조가 어떻게 되어있을까?
+
 ![chatgpt-diagram](./assets/img/chatgpt_diagram.svg)
 *OpenAI. (2022, Nov. 30). ChatGPT: Optimizing Language Models for Dialogue. https://openai.com/blog/chatgpt/*
 
@@ -21,8 +22,8 @@
 4. 후에 output에 대한 사람의 직접적인 피드백<sub>(best-to-worst를 순차적으로 나열)</sub>을 통한 보상모델을 훈련함<sub>(보상모델은 강화학습을 하기 위해 활용된다)</sub>
 5. 어느정도 원하는 수준의 답을 내기까지 계속된 강화학습을 진행
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(On Prem이 아닌 Azure AI Infrastructure를 통해 모든 학습이 이루어지었다.)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(예전에 2021년 GPT-3를 베타 테스트 웨이팅리스트 기회가 와서 했을 때에 비해 ChatGPT는 더 긍정적인 톤의 답을 내놓는다는 생각이 들었다.)
+*(On Prem이 아닌 Azure AI Infrastructure를 통해 모든 학습이 이루어지었다.)* \
+*(예전에 2021년 GPT-3를 베타 테스트 웨이팅리스트 기회가 와서 했을 때에 비해 ChatGPT는 더 긍정적인 톤의 답을 내놓는다는 생각이 들었다.)*
 
 따라서, 지도학습과 강화학습을 적절히 조합한 방식으로 ChatGPT를 학습했다고 볼 수 있다.
 
