@@ -45,8 +45,7 @@ https://scale.com/blog/chatgpt-vs-claude
 
 - 2023년 서울대 이교구 교수님의 Supertone (Mnet, SBS 등에서 죽은 가수가 환생해 최신곡을 커버함)을 인수한 하이브처럼 최신 리서치에 관심이 있는 스타트업이 경쟁력이 있고 IP확보에 유리할 것이다. Supertone과 같은 경우에는 글쓴이 본인의 옆 연구실이고, 수업을 들은 바로 음성 뿐만이 아니라 안무라든지의 연구가 수년 간 이루어졌다.
 
-- voice.ai를 보면 유튜브에 쇼츠로 일반인이 일론 머스크의 비디오로 다른 목소리(모간 프리먼, 조 바이든, 앤드류 테이트 등 50여 가지)와 sync를 맞출 수 있는 예시들을 유저들이 꾸준히 체험해 볼 수 있게끔 한다. 다른 비디오에서는 Roblox에 voice.ai를 통해 목소리를 입히는 법을 알려준다. 각종 창의적인 수단으로 B2C, B2B 홍보하는 스타트업들이 ChatGPT와 같은 폭팔적 인기를 끌 수 있을 것이다.
-https://youtube.com/shorts/S84CgeVCNO8?feature=share
+- voice.ai를 보면 유튜브에 쇼츠로 일반인이 일론 머스크의 비디오로 다른 목소리(모간 프리먼, 조 바이든, 앤드류 테이트 등 50여 가지)와 sync를 맞출 수 있는 예시들을 유저들이 꾸준히 체험해 볼 수 있게끔 한다([link](https://youtube.com/shorts/S84CgeVCNO8?feature=share)). 다른 비디오에서는 Roblox에 voice.ai를 통해 목소리를 입히는 법을 알려준다. 각종 창의적인 수단으로 B2C, B2B 홍보하는 스타트업들이 ChatGPT와 같은 폭팔적 인기를 끌 수 있을 것이다.
 
 - Midjourney
 
