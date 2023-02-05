@@ -21,6 +21,7 @@
 - 서버 비용이 학습하고 추론하는 데에 많이 쓰여 research preview 때만 제공하려던 무료서비스를 지속할 수 없고, 결국 올해 2023년 마이크로소프트가 인수하면서 유료로 전환이 되었다.
 마이크로소프트가 Open AI 인수함에 따라 AWS, GCP, Azure의 market share도 달라질 수 있을 것이라 생각한다. 또, Bing에게 적용이 될 ChatGPT를 통해 사용량이 늘 것이라 Google search engine의 market share도 줄 수 있을 것이다. 
 https://gs.statcounter.com/search-engine-market-share
+<div id="all-search_engine-ww-monthly-202201-202301" width="600" height="400" style="width:600px; height: 400px;"></div><!-- You may change the values of width and height above to resize the chart --><p>Source: <a href="https://gs.statcounter.com/search-engine-market-share">StatCounter Global Stats - Search Engine Market Share</a></p><script type="text/javascript" src="https://www.statcounter.com/js/fusioncharts.js"></script><script type="text/javascript" src="https://gs.statcounter.com/chart.php?all-search_engine-ww-monthly-202201-202301&chartWidth=600"></script>
 
 - ChatGPT는 결국 GPT-3 기반으로 같은 수의 파라미터로 만들어진 GPT-3.5와 동의어로 생각할 수 있고, InstructGPT의 연장선이라 볼 수 있다. 곧 파라미터 수가 확 늘은 GPT-4가 만들어질 것이라 계속해서 발전된 형태의 output을 기대할 수 있다. 2021년 이후의 더 최신 데이터를 input으로 넣는지에 따라 더 좋은 결과를 낼 수 있다.
 
