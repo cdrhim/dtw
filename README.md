@@ -1,3 +1,6 @@
+🌍 Website: link
+💾 Repository: link
+
 # dtw
 Translink Deep Tech Weekly (DTW)
 
