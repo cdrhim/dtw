@@ -1,12 +1,12 @@
 🌍 Website: [link](https://cdrhim.github.io/dtw/)\
 💾 Repository: [link](https://www.github.com/cdrhim/dtw/)
 
-- [DTW-1](#cs61a)
+- [DTW-1](##week_1_(DTW-1))
 
 # dtw
 Translink Deep Tech Weekly (DTW)
 
-Week 1 (DTW-1)
+## Week 1 (DTW-1)
 
 ChatGPT를 분해해 보면 그 구조가 어떻게 되어있냐?
 강화학습+Azure AI Infrastructure 활용
