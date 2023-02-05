@@ -1,5 +1,7 @@
-🌍 Website: link
-💾 Repository: link
+🌍 Website: [link](https://cdrhim.github.io/dtw/)\
+💾 Repository: [link](https://www.github.com/cdrhim/dtw/)
+
+- [DTW-1](#cs61a)
 
 # dtw
 Translink Deep Tech Weekly (DTW)
