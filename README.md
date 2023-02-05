@@ -13,10 +13,11 @@
 ![chatgpt-diagram](./assets/img/chatgpt_diagram.svg)
 *OpenAI. (2022, Nov. 30). ChatGPT: Optimizing Language Models for Dialogue. https://openai.com/blog/chatgpt/*
 1. 인터넷 상 570GB 정도의 텍스트 데이터(또는 3000억 개의 단어들)를 추출함
-2. Azure AI Infrastructure를 통해 모아진 데이터로 지도학습을 통해 일정의 1차 output을 생성함 
+2. 모아진 데이터로 지도학습을 통해 일정의 1차 output을 생성함 
 3. 후에 output에 대한 강화학습을 함
 4.  활용
 
+(Azure AI Infrastructure를 통해 모든 학습이 이루어지었다.)
 (예전에 2021년 GPT-3를 베타 테스트 웨이팅리스트 기회가 와서 했을 때에 비해 ChatGPT는 더 긍정적인 톤의 답을 내놓는다는 생각이 들었다.)
 
 - ChatGPT 특이점: 과거 유명해고 현재까지 쓰이는 인공지능 기술들인 이안 굿펠로우(Ian Goodfellow)의 2014년 [General Adversarial Networks (GAN)](https://arxiv.org/abs/1406.2661)이나 벤 밀든홀(Ben Mildenhall), 매튜 탄식(Matthew Tancik)의 2020년 [NeRF (Neural Radiance Fields)](https://arxiv.org/abs/2003.08934)는 유명 학회나 저널을 통해 발표된 기술들이다. GAN은 NIPS란 학회에 accept이 되었고, NeRF는 ECCV의 Oral 부문에서 Best Paper 상을 받았다. 어떤 사람이 처음 어떤 기술을 제안했는지 알 수 있고, 어떤 매체의 검증을 거쳤는지 알 수 있었다. 그러나 ChatGPT는 이와 다르게 peer review로 제3자의 검증을 거치지 않았다는 특이점이 있고, 학계가 아닌 기업에서 발표된 점이 흥미로울 수 있다. 그리고 source code가 오픈소스로 공개되지 않아 정확히 어떤 데이터나 모델을 활용했는지 알 수 없다. 흥미롭게도 이안 굿펠로우는 2016년 3월에 OpenAI에 조인을 했다가 11개월 만에 다시 Google Research로 복귀한 바가 있다.
