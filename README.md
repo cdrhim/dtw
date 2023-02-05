@@ -50,6 +50,7 @@ https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialin
 
 <!---
 Week 2
-About all the licenses that could be included in open source software (Apache 2.0, etc.).
+- About all the licenses that could be included in open source software (Apache 2.0, etc.).
+- 테크 기업들에 대한 미국의 최신 valuation 방법들
 
 -->
