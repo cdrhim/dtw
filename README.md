@@ -11,7 +11,7 @@
 
 ## Week 1 (DTW-1)
 
-- ChatGPT를 분해해 보면 그 구조가 어떻게 되어있을까?
+- ChatGPT를 분해해 보면 그 **구조**가 어떻게 되어있을까?
 
 ![chatgpt-diagram](./assets/img/chatgpt_diagram.svg)
 *OpenAI. (2022, Nov. 30). ChatGPT: Optimizing Language Models for Dialogue. https://openai.com/blog/chatgpt/*
