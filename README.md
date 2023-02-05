@@ -60,7 +60,7 @@ https://www.nvidia.com/en-us/geforce/news/jan-2023-nvidia-broadcast-update/
 - Microsoft Teams가 Notion보다 인기가 많아진 이유는 이미 선점하고 있던 Windows의 distribution 때문.
 
 
-### 최신 핫한 논문들
+### 최신 핫한 논문들에 대한 내용은 DTW-2에 확인가능
 
 - 논문을 내는 곳 중에 컨퍼런스와 저널 등이 있고, IF가 높을수록 더 명성이 높은 곳이라 할 수 있다. ICLR, NIPS, ICML, AAAI, CVPR 등이 있다([link](https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence)).
 
