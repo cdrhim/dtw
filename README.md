@@ -44,7 +44,7 @@
 
 - Multi-modal learning AI를 통해 앞으로 text의 한 도메인 학습보다 text-to-image (DALL-E), text-to-video 등의 멀티 도메인 generative AI가 더 흥행할 수도 있을 것이다. ChatGPT는 챗봇의 형태로 특수하게 훈련된 모델인데, 그 이후로 CLIP이란 기술을 통해 이미 만들어진 text-to-image 모델인 DALL-E 2([link](https://openai.com/dall-e-2/))를 능가하는 더 섬세하고 semantic한 그림을 생성하는 DALL-E 3나, 2d를 넘어서는 3d 이미지 생성이나, 비디오 생성을 하는 단계까지 갈 수 있다.
 
-- 또한, 최근 대두되는 것은 OpenAI에서 근무한 분들이 차린 스타트업의 성장세이다. 2021년에 세워진 Anthropic은 Claude란 챗봇을 따로 만들어서 **2022년 말에 Google이 300 million USD를 여기에 투자**했다([link](https://www.theverge.com/2023/2/3/23584540/google-anthropic-investment-300-million-openai-chatgpt-rival-claude)). ChatGPT는 인간의 피드백을 수용한 강화학습의 일종인 reinforcement learning from human feedback (RLHF)을 따랐고, Anthropic은 Constitution AI란 모델을 써서 fine-tuned된 아웃풋에 대해 인간이 아닌 컴퓨터가 강화학습을 진행하도록 한 차이가 있다([link](https://scale.com/blog/chatgpt-vs-claude)). 이제 아래 그림과 같이 페이팔 마피아에 이어 OpenAI 마피아란 명칭이 생겨났다.
+- 또한, 최근 대두되는 것은 OpenAI에서 근무한 분들이 차린 스타트업의 성장세이다. 2021년에 세워진 Anthropic은 Claude란 챗봇을 따로 만들어서 **2022년 말에 Google이 300 million USD를 여기에 투자**했다([link](https://www.theverge.com/2023/2/3/23584540/google-anthropic-investment-300-million-openai-chatgpt-rival-claude)). ChatGPT는 인간의 피드백을 수용한 강화학습의 일종인 reinforcement learning from human feedback (RLHF)을 따랐고, Anthropic은 Constitution AI란 모델을 써서 fine-tuned된 아웃풋에 대해 인간이 아닌 컴퓨터가 강화학습을 진행하도록 한 차이가 있다([link](https://scale.com/blog/chatgpt-vs-claude)). Anthropic 이외에도 다수의 파생 스타트업이 생겨나 이제 아래 그림과 같이 페이팔 마피아에 이어 OpenAI 마피아란 명칭이 생겨났다.
 
 ![openai-mafia](./assets/img/openai-mafia.jpg)
 *Analytics India Magazine. (2023). OpenAI Mafia. https://analyticsindiamagazine.substack.com/p/openai-mafia*
