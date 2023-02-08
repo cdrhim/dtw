@@ -73,5 +73,5 @@ Week 2
 - 테크 기업들에 대한 미국의 최신 valuation 방법들
 - Midjourney
 - Microsoft Teams가 Notion보다 인기가 많아진 이유는 이미 선점하고 있던 Windows의 distribution 때문.
-
+- 구글이 바드를 출시
 -->
