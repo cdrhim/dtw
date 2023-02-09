@@ -74,4 +74,5 @@ Week 2
 - Midjourney
 - Microsoft Teams가 Notion보다 인기가 많아진 이유는 이미 선점하고 있던 Windows의 distribution 때문.
 - 구글이 바드를 출시
+- 바드의 실수
 -->
