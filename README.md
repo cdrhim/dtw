@@ -76,4 +76,5 @@ Week 2
 - 구글이 바드를 출시
 - 바드의 실수
 - OpenAI's business structure (not feature, not product)
+- 메타버스에서 손을 뗀 MS
 -->
