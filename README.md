@@ -77,4 +77,5 @@ Week 2
 - 바드의 실수
 - OpenAI's business structure (not feature, not product)
 - 메타버스에서 손을 뗀 MS
+- Google의 AI Test Kitchen을 통해서 LaMDA 실험해 볼 수 있음.
 -->
