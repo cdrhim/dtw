@@ -80,4 +80,5 @@ Week 2
 - Google의 AI Test Kitchen을 통해서 waitlist에 등록한 다음 LaMDA 실험해 볼 수 있음.
 - 인수된 AI 스타트업에 대한 조사 - Bedrock Data acquired by Formstack, AuthAir acquired by LogMeIn, Carbon Black acquired by VMWare, Connotate acquired by import.io, edgewise networks acquired by zscaler
 - 인수를 잘하는 외국기업 및 한국기업
+- 본디는 파리 스타트업 BeReal과 비슷하다 https://www.linkedin.com/posts/amyrlewin_socialmedia-frenchtech-genz-activity-7029033711861944320-0M9g?utm_source=share&utm_medium=member_android
 -->
