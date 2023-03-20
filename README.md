@@ -1,4 +1,4 @@
-# Translink Deep Tech Weekly (DTW)
+# Translink Deep Tech Weekly (DTW).
 
 🌍 Website: [link](https://cdrhim.github.io/dtw/)\
 💾 Repository: [link](https://www.github.com/cdrhim/dtw/)
